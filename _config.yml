@@ -1,0 +1,12 @@
+# Site settings
+title: Projects and Experiments
+email: mallory@wearetrailblazers.com
+description: > # this means to ignore newlines until "baseurl:"
+  Project and experiment listing that is up-to-date with projects, portfolio, and random musings
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://malloryporche.github.io" # the base hostname & protocol for your site
+twitter_username: missmalloree
+github_username:  malloryporche
+
+# Build settings
+markdown: kramdown

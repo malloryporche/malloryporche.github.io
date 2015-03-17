@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 node_modules
 dist
+=======
+_site
+>>>>>>> 557b8c2df148678f618f9b303faf3d0c64bdd8bb
 .sass-cache
