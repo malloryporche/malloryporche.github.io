@@ -17,11 +17,11 @@ html, body, .container {
 
 //  DOCUMENT LEVEL FONT-SIZE ADJUSTMENTS  //
 html {
-	font-family: "Baron";
+	font-family: "Helvetica";
 	font-size: $base_html_font_size;
 }
 body {
-	font-family: "Baron";
+	font-family: "Helvetica";
 }
 @media screen and (max-width: 900px) {
 	html { font-size: 16px; }
@@ -42,6 +42,9 @@ a {
 
 section {
 	background: white;
+	max-width: 900px;
+	display: block;
+	margin: 50 auto;
 	h1 {
 		color: black;
 	}
